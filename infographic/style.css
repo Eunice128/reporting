@@ -1,18 +1,34 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+body {
+	background-color: powderblue;
+font: 12px 'Helvetica Neue', Helvetica, Arial, freesans, clean, sans-serif;
+		color: #333; }
 
+h1, h4 {
+	text-align: center;
+}
 
-body {background-color: gray
-	}
+h1 {
+    color: gray;
+    font-family: georgia;
+}
 
-</style>
-</head>
+h4{
+	color: black;
+	font-family: palatino;
+	font-style: italic;
+}
 
+aside {float:left;
+	border:solid 2px black;
+	width:20%;}
 
-</body>
-</html>
+	article{ float:right;
+	text-align:left}
+
+section {
+	clear:both;
+	margin: 50px 1px;
+}
 
 
 
