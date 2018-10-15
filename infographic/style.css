@@ -1,6 +1,6 @@
 body {
 	background-color: powderblue;
-font: 12px 'Helvetica Neue', Helvetica, Arial, freesans, clean, sans-serif;
+font: 16px; 
 		color: #333; }
 
 h1, h4 {
@@ -28,9 +28,7 @@ aside {float:left;
 section {
 	clear:both;
 	margin: 50px 1px;
+	style="float:left;width:100px;height:100px;margin-right:15px;">
 }
-
-
-
 
 
